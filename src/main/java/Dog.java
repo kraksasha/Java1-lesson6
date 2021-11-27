@@ -23,6 +23,6 @@ public class Dog extends Animal{
         } else {
             System.out.println(name + " столько не проплывет");
         }
-
     }
+
 }

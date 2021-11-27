@@ -24,7 +24,6 @@ public class Cat extends Animal{
           } else {
                System.out.println(name + " столько не пробежит.");
           }
-
-
      }
+
 }
