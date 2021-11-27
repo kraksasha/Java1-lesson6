@@ -11,11 +11,11 @@ public class Animal {
     public Animal() {
     }
 
-    public void run(int distation){
+    public void run(int distation) {
         System.out.println(name + " пробежал " + distation + " м.");
     }
 
-    public void swim(int distation){
+    public void swim(int distation) {
         System.out.println(name + " проплыл " + distation + " м.");
     }
 
@@ -26,5 +26,4 @@ public class Animal {
     public void setName(String name) {
         this.name = name;
     }
-
 }
