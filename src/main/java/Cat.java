@@ -25,5 +25,4 @@ public class Cat extends Animal{
                System.out.println(name + " столько не пробежит.");
           }
      }
-
 }

@@ -11,5 +11,4 @@ public class Main {
         cat1.swim(20);
         dog1.swim(6);
     }
-
 }
